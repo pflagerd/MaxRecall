@@ -1,15 +1,9 @@
-h2 {
-    color: white;
+body {
+    margin: 0 0 0 0;
 }
 
-.scrolling-wrapper {
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-
-    .card {
-        display: inline-block;
-    }
+h2 {
+    color: black;
 }
 
 .scrolling-wrapper-flexbox {
@@ -19,27 +13,17 @@ h2 {
 
 .card {
     flex: 0 0 auto;
-    margin-right: 3px;
 }
 
 }
 
 .card {
-    border: 2px solid red;
     min-width: 100vw;
-    height: 90vh;
-    background: black;
-}
-
-.scrolling-wrapper, .scrolling-wrapper-flexbox {
     height: 100vh;
-    margin-bottom: 20px;
-    width: 100%;
-    -webkit-overflow-scrolling: touch;
-
-&
-::-webkit-scrollbar {
-    display: none;
+    background: white;
 }
 
+.scrolling-wrapper-flexbox {
+    height: 100vh;
+    width: 100%;
 }
