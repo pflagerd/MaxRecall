@@ -20,10 +20,69 @@ h2 {
 .card {
     min-width: 100vw;
     height: 100vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
     background: white;
 }
 
 .scrolling-wrapper-flexbox {
     height: 100vh;
     width: 100%;
+}
+
+
+#status {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 6vh;
+    top: 4px;
+    width: 49%;
+    max-width: 49%;
+    min-width: 49%;
+    max-height: 1.2em;
+    position: fixed;
+    padding: 1px 0px 1px 5px;
+    overflow: hidden;
+}
+
+#timer {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 6vh;
+    top: 4px;
+    right: 2px;
+    width: 49%;
+    max-width: 49%;
+    min-width: 49%;
+    max-height: 1.2em;
+    position: fixed;
+    padding: 1px 5px 1px 0px;
+    text-align: right;
+    overflow: hidden;
+}
+
+#context {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 6vh;
+    bottom: 2px;
+    width: 49%;
+    max-width: 49%;
+    min-width: 49%;
+    max-height: 1.2em;
+    position: fixed;
+    padding: 1px 0px 1px 5px;
+    overflow: hidden;
+}
+
+#reference {
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 6vh;
+    bottom: 2px;
+    right: 2px;
+    width: 49%;
+    max-width: 49%;
+    min-width: 49%;
+    max-height: 1.2em;
+    position: fixed;
+    padding: 1px 5px 1px 0px;
+    text-align: right;
+    overflow: hidden;
 }
