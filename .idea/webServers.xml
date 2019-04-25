@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="873470cc-62eb-4010-9985-5d3a9e049b52" name="pflager.com/MaxRecall" url="http://pflager.com/MaxRecall">
+        <fileTransfer host="pflager.com" port="21" rootFolder="/public_html/MaxRecall">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
