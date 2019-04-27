@@ -20,12 +20,10 @@ h2 {
 .card {
     min-width: 100vw;
     height: 100vh;
-    margin-top: 2vh;
-    margin-bottom: 2vh;
     background: white;
     display: grid;
-    grid-template-rows: 23% 23% 23% 23% 8%;
-    grid-template-columns: 15% 75% 10%;
+    grid-template-rows: 8% 21% 21% 21% 21% 8%;
+    grid-template-columns: 10% 80% 10%;
 }
 
 .scrolling-wrapper-flexbox {
@@ -33,30 +31,39 @@ h2 {
     width: 100%;
 }
 
+#question-and-answer {
+    grid-row: 2 / 6;
+    grid-column: 2;
+    align-self: center;
+    justify-self: center;
+    min-height: 100%;
+    min-width: 100%;
+}
+
 #go-back {
-    grid-row: 1 / 5;
-    grid-column: 1 / 2;
+    grid-row: 2 / 6;
+    grid-column: 1;
 }
 
 #go-forward {
-    grid-row: 1 / 5;
-    grid-column: 3 / 4;
+    grid-row: 2 / 6;
+    grid-column: 3;
 }
 
 #correct {
-    grid-row: 1 / 3;
-    grid-column: 3 / 4;
+    grid-row: 1 / 4;
+    grid-column: 3;
 }
 
 #incorrect {
-    grid-row: 3 / 5;
-    grid-column: 3 / 4;
+    grid-row: 4 / 7;
+    grid-column: 3;
 }
 
 #status {
     font-family: "Arial", Helvetica, sans-serif;
     font-size: 6vh;
-    top: 4px;
+    top: 2px;
     width: 49%;
     max-width: 49%;
     min-width: 49%;
@@ -69,7 +76,7 @@ h2 {
 #timer {
     font-family: "Arial", Helvetica, sans-serif;
     font-size: 6vh;
-    top: 4px;
+    top: 2px;
     right: 2px;
     width: 49%;
     max-width: 49%;
