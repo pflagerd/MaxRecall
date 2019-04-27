@@ -23,6 +23,9 @@ h2 {
     margin-top: 2vh;
     margin-bottom: 2vh;
     background: white;
+    display: grid;
+    grid-template-rows: 23% 23% 23% 23% 8%;
+    grid-template-columns: 15% 75% 10%;
 }
 
 .scrolling-wrapper-flexbox {

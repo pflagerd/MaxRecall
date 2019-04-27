@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"/-->
+    <title>Browser Info</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="data:;base64,iVBORw0KGgo=">
+    <meta name="mobile-web-app-capable" content="yes">
+    <!--link rel="manifest" href="manifest.json"-->
+    <!--script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script-->
+    <!--link href="MaxRecall.mobile.css" rel="stylesheet"-->
+    <!--script type="text/javascript" src="maxRecall.mobile.js"></script-->
+    <script>
+        window.onload = function () {
+            document.body.innerHTML = 'window.outerWidth === ' + window.outerWidth + '<p>';
+            document.body.innerHTML += 'window.outerHeight === ' + window.outerHeight + '<p>';
+            document.body.innerHTML += 'window.innerWidth === ' + window.innerWidth + '<p>';
+            document.body.innerHTML += 'window.innerHeight === ' + window.innerHeight + '<p>';
+
+            document.body.innerHTML += 'window.screen.width === ' + window.screen.width + '<p>';
+            document.body.innerHTML += 'window.screen.height === ' + window.screen.height + '<p>';
+            document.body.innerHTML += 'window.screen.availWidth === ' + window.screen.availWidth + '<p>';
+            document.body.innerHTML += 'window.screen.availHeight === ' + window.screen.availHeight + '<p>';
+            document.body.innerHTML += 'window.screen.availTop === ' + window.screen.availTop + '<p>';
+            document.body.innerHTML += 'window.screen.availLeft === ' + window.screen.availLeft + '<p>';
+        }
+
+    </script>
+</head>
+<body>
+</body>
+</html>
