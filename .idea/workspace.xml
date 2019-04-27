@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5bfb3b-da8b-4e0c-ab8b-47f4212e6bdb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxRecall.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/MaxRecall.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaxRecall2.Copyright.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MaxRecall.mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MaxRecall.mobile.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,13 +19,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+            <state relative-caret-position="352">
+              <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MaxRecall2.Copyright.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -66,9 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -87,6 +95,7 @@
         <option value="$PROJECT_DIR$/.labbook/190427T103200.md" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.js" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.css" />
+        <option value="$PROJECT_DIR$/MaxRecall2.Copyright.html" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.html" />
       </list>
     </option>
@@ -192,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555784739265</updated>
       <workItem from="1555784741761" duration="991000" />
-      <workItem from="1556086104767" duration="17365000" />
+      <workItem from="1556086104767" duration="18015000" />
     </task>
     <task id="LOCAL-00001" summary="very rudimentary start.">
       <created>1556086857333</created>
@@ -264,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556393564787</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Even better now.">
+      <created>1556396012188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556396012188</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18356000" />
+    <option name="totallyTimeSpent" value="19006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
@@ -306,7 +322,8 @@
     <MESSAGE value="Planning" />
     <MESSAGE value="&lt;meta name=&quot;mobile-web-app-capable&quot; content=&quot;yes&quot;&gt; seems to be enough to get it into full-screen mode on Chrome/Android." />
     <MESSAGE value="Navigation elements are good now..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Navigation elements are good now..." />
+    <MESSAGE value="Even better now." />
+    <option name="LAST_COMMIT_MESSAGE" value="Even better now." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.labbook/190420T112600.md">
@@ -367,10 +384,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MaxRecall2.Copyright.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        <state relative-caret-position="352">
+          <caret line="31" column="87" selection-start-line="31" selection-start-column="87" selection-end-line="31" selection-end-column="87" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
