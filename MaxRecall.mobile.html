@@ -18,8 +18,37 @@
     <span id="context" title="">context</span>
     <span id="reference" title="" onclick="onclickhandler('reference')">reference</span>
 
-    <div class="card"><h2>Question</h2></div>
-    <div class="card"><h2>Answer</h2></div>
+    <div class="card"><h2>Question</h2>
+        <div id="go-forward" onclick="onclickhandler('go-forward')">
+            <svg style="float:right;" height="100%" width="100%" version="1.1" viewBox="0 0 400 800" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
+                <polyline id="go-forward-graphic" points="100,100 300,400 100,700"
+                          style="fill:none; stroke:black; stroke-width:7vmax; stroke-linecap:round; stroke-linejoin:round;" />
+            </svg>
+            <audio id="go-forward-sound" src=""/>
+        </div>
+    </div>
+    <div class="card"><h2>Answer</h2>
+        <div id="go-back" onclick="onclickhandler('go-back')">
+            <svg height="100%" width="67%" version="1.1" viewBox="0 0 400 800" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
+                <polyline id="go-back-graphic" points="300,100 100,400 300,700"
+                          style="fill:none; stroke:black; stroke-width:7vmax; stroke-linecap:round; stroke-linejoin:round;" />
+            </svg>
+        </div>
+        <div id="correct" onclick="onclickhandler('correct')">
+            <svg height="100%" width="100%" version="1.1" viewBox="0 0 500 500" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
+                <polyline id="correct-graphic" points="100,300 200,400 400,100"
+                          style="fill:none;stroke:green;stroke-width:7vmax; stroke-linecap: round; stroke-linejoin: round;" />
+            </svg>
+        </div>
+        <div id="incorrect" onclick="onclickhandler('incorrect')">
+            <svg height="100%" width="100%" version="1.1" viewBox="0 0 500 500" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg">
+                <line id="incorrect-graphic-1" x1="120" y1="120" x2="380" y2="380"
+                      style="fill:none;stroke:red;stroke-width:7vmax; stroke-linecap: round; stroke-linejoin: round;" />
+                <line id="incorrect-graphic-2" x1="120" y1="380" x2="380" y2="120"
+                      style="fill:none;stroke:red;stroke-width:7vmax; stroke-linecap: round; stroke-linejoin: round;" />
+            </svg>
+        </div>
+    </div>
 </div>
 </body>
 </html>
