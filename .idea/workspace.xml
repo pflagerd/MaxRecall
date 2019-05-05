@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c5bfb3b-da8b-4e0c-ab8b-47f4212e6bdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MaxRecall2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.labbook/190504T214200.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.labbook/190505T142400.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KatexExperiment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KatexExperiment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KatexExperiment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAreaExperiment.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextAreaExperiment.4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxRecall.mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MaxRecall.mobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.labbook/190427T103200.md" beforeDir="false" afterPath="$PROJECT_DIR$/.labbook/190427T103200.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MaxRecall2.Copyright.html" beforeDir="false" afterPath="$PROJECT_DIR$/MaxRecall2.Copyright.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxRecall2.html" beforeDir="false" afterPath="$PROJECT_DIR$/MaxRecall2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,56 +28,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAreaExperiment.4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextAreaExperiment.4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
-              <folding>
-                <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaxRecall2.Copyright.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaxRecall2.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.labbook/190427T103200.md">
+        <entry file="file://$PROJECT_DIR$/.labbook/190505T142400.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,11 +63,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rows</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,17 +86,25 @@
         <option value="$PROJECT_DIR$/browseringo.html" />
         <option value="$PROJECT_DIR$/browserinfo.html" />
         <option value="$PROJECT_DIR$/manifest.json" />
-        <option value="$PROJECT_DIR$/.labbook/190427T103200.md" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.js" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.css" />
-        <option value="$PROJECT_DIR$/MaxRecall2.Copyright.html" />
         <option value="$PROJECT_DIR$/MaxRecall.mobile.html" />
+        <option value="$PROJECT_DIR$/MaxRecall2.html" />
+        <option value="$PROJECT_DIR$/MaxRecall2.Copyright.html" />
+        <option value="$PROJECT_DIR$/KatexExperiment.css" />
+        <option value="$PROJECT_DIR$/KatexExperiment.js" />
+        <option value="$PROJECT_DIR$/KatexExperiment.html" />
+        <option value="$PROJECT_DIR$/textAreaExperiment.4.html" />
+        <option value="$PROJECT_DIR$/.labbook/190427T103200.md" />
+        <option value="$PROJECT_DIR$/.labbook/190504T214200.md" />
+        <option value="$PROJECT_DIR$/TextAreaExperiment.4.html" />
+        <option value="$PROJECT_DIR$/TextAreaExperiment.4.js" />
+        <option value="$PROJECT_DIR$/.labbook/190505T142400.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
-    <option name="y" value="16" />
+    <option name="y" value="18" />
     <option name="width" value="1880" />
     <option name="height" value="1006" />
   </component>
@@ -152,7 +146,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.labbook" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -165,8 +159,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.labbook" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -181,21 +175,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.MaxRecall.mobile.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.TextAreaExperiment.4.html">
+    <configuration name="KatexExperiment.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://pflager.com/MaxRecall/KatexExperiment.html">
+      <method v="2" />
+    </configuration>
     <configuration name="MaxRecall.mobile.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://pflager.com/MaxRecall/MaxRecall.mobile.html">
       <method v="2" />
     </configuration>
-    <configuration name="MaxRecall.mobile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MaxRecall2.0/MaxRecall.mobile.html" useBuiltInWebServerPort="true">
+    <configuration name="TextAreaExperiment.4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://pflager.com/MaxRecall/TextAreaExperiment.4.html">
       <method v="2" />
     </configuration>
     <configuration name="browserinfo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://pflager.com/MaxRecall/browserinfo.html">
       <method v="2" />
     </configuration>
+    <configuration name="TextAreaExperiment.4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="TextAreaExperiment.4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.TextAreaExperiment.4.html" />
+        <item itemvalue="Node.js.TextAreaExperiment.4.js" />
+        <item itemvalue="JavaScript Debug.KatexExperiment.html" />
         <item itemvalue="JavaScript Debug.MaxRecall.mobile.html (1)" />
         <item itemvalue="JavaScript Debug.browserinfo.html" />
-        <item itemvalue="JavaScript Debug.MaxRecall.mobile.html" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555784739265</updated>
       <workItem from="1555784741761" duration="991000" />
-      <workItem from="1556086104767" duration="19236000" />
+      <workItem from="1556086104767" duration="34458000" />
     </task>
     <task id="LOCAL-00001" summary="very rudimentary start.">
       <created>1556086857333</created>
@@ -296,11 +298,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556396670105</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Baseline layout complete.">
+      <created>1556397907478</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556397907478</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20227000" />
+    <option name="totallyTimeSpent" value="35449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
@@ -309,44 +318,23 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48034933" visible="true" weight="0.20347917" />
       <window_info id="Structure" order="1" sideWeight="0.51965064" side_tool="true" weight="0.20347917" />
       <window_info id="Favorites" order="2" sideWeight="0.51965064" side_tool="true" weight="0.20347917" />
-      <window_info anchor="bottom" id="File Transfer" weight="0.32969433" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="right" id="Remote Host" weight="0.32977587" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347917" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" order="0" visible="true" weight="0.32969433" />
+      <window_info anchor="bottom" id="File Transfer" order="0" weight="0.32969433" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" visible="true" weight="0.30415264" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2379349" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="right" id="Remote Host" order="0" weight="0.32977587" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-    </layout-to-restore>
+      <window_info active="true" anchor="right" id="Remote Host" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -361,7 +349,17 @@
     <MESSAGE value="Navigation elements are good now..." />
     <MESSAGE value="Even better now." />
     <MESSAGE value="Even better." />
-    <option name="LAST_COMMIT_MESSAGE" value="Even better." />
+    <MESSAGE value="Baseline layout complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="Baseline layout complete." />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>textarea.text()</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.labbook/190420T112600.md">
@@ -398,23 +396,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.labbook/190427T103200.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -422,23 +403,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MaxRecall2.html">
+    <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KatexExperiment.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KatexExperiment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxRecall2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MaxRecall2.Copyright.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="120">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MaxRecall.mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="5" selection-end-line="12" />
           <folding>
             <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KatexExperiment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.labbook/190427T103200.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.labbook/190504T214200.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextAreaExperiment.4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextAreaExperiment.4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.labbook/190505T142400.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
