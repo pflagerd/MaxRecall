@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js"></script>
+    <link href="katex-example-1.css" rel="stylesheet">
+</head>
+<body>
+    <!--chromium --window-size=514,409 --user-data-dir=/tmp katex-example-1.html -->
+    <div id="question-answer">
+        <div>The motion of a hungry walrus walking back and forth horizontally looking for food is given by the graph below, which shows the horizontal position <i>x</i> as a function of time <i>t</i>.</div>
+        <!--span>$$2+\frac{1}{x}$$</span-->
+        <canvas id="canvas"></canvas>
+        <div>What was the instantaneous velocity of the walrus at the following times: <i>2s</i>, <i>5s</i>, and <i>8s</i>?</div>
+    </div>
+    <!--script>
+        renderMathInElement(document.body);
+    </script-->
+    <script>
+        function drawGrid(elementId, horizontal_interval_count, vertical_interval_count) {
+            let canvas = document.getElementById(elementId);
+            let ctx = canvas.getContext("2d");
+
+            // Draw horizontal intervals (i.e. draw vertical lines)
+            for (let vertical_line_number = 0; vertical_line_number <= horizontal_interval_count; vertical_line_number++) {
+                ctx.strokeStyle = '#DDDDDD';
+                ctx.beginPath();
+                ctx.moveTo(Math.floor(vertical_line_number * canvas.width / horizontal_interval_count) + (vertical_line_number === 0 ? 0.5 : -0.5), 0);
+                ctx.lineTo(Math.floor(vertical_line_number * canvas.width / horizontal_interval_count) + (vertical_line_number === 0 ? 0.5 : -0.5), canvas.height);
+                ctx.stroke();
+            }
+
+            // Draw horizontal intervals (i.e. draw vertical lines)
+            for (let horizontal_line_number = 0; horizontal_line_number <= vertical_interval_count; horizontal_line_number++) {
+                ctx.strokeStyle = '#DDDDDD';
+                ctx.beginPath();
+                ctx.moveTo(0, Math.floor(horizontal_line_number * canvas.height / vertical_interval_count) + (horizontal_line_number === 0 ? 0.5 : -0.5));
+                ctx.lineTo(canvas.width, Math.floor(horizontal_line_number * canvas.height / vertical_interval_count) + (horizontal_line_number === 0 ? 0.5 : -0.5));
+                ctx.stroke();
+            }
+
+            console.log("hi");
+        }
+
+        drawGrid("canvas", 11, 9);
+    </script>
+</body>
+</html>

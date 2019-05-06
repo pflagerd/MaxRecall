@@ -1,0 +1,15 @@
+body {
+    margin: 0 0 0 0;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+
+#question-answer {
+}
+
+canvas {
+    padding: 2vmax;
+    min-width: 90vw;
+    max-width: 90vw
+    min-height: 60vh;
+    max-height: 60vh;
+}
