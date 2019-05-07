@@ -40,6 +40,25 @@
                 ctx.stroke();
             }
 
+            // Draw x-axis
+            let y_offset = 2; // 2 vertical intervals from the bottom
+            ctx.strokeStyle = '#000000';
+            ctx.beginPath();
+            ctx.moveTo(0, Math.floor((vertical_interval_count - y_offset) * canvas.height / vertical_interval_count) + (y_offset === 0 ? 0.5 : -0.5));
+            ctx.lineTo(canvas.width, Math.floor((vertical_interval_count - y_offset) * canvas.height / vertical_interval_count) + (y_offset === 0 ? 0.5 : -0.5));
+            ctx.stroke();
+            
+            // TODO: x-axis arrow-head
+            
+            // Draw y-axis
+            let x_offset = 1; // 1 vertical intervals from the bottom
+            ctx.strokeStyle = '#000000';
+            ctx.beginPath();
+            ctx.moveTo(Math.floor(x_offset * canvas.width / horizontal_interval_count) + (x_offset === 0 ? 0.5 : -0.5), 0);
+            ctx.lineTo(Math.floor(x_offset * canvas.width / horizontal_interval_count) + (x_offset === 0 ? 0.5 : -0.5), canvas.height);
+            ctx.stroke();
+
+
             console.log("hi");
         }
 
